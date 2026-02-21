@@ -1,0 +1,8 @@
+[21-Feb-26 09:40:41 - INFO] - anony: Cache directories updated.
+[21-Feb-26 09:40:42 - INFO] - anony: Loaded languages: ar, de, en, es, fr, hi, ja, my, pa, pt, ru, tr, zh
+/home/ubuntu/AnonXMusic/anony/__main__.py:40: DeprecationWarning: There is no current event loop
+  asyncio.get_event_loop().run_until_complete(main())
+[21-Feb-26 09:40:47 - INFO] - anony: Database connection successful. (4.20s)
+[21-Feb-26 09:40:49 - INFO] - anony: Database cache loaded.
+Bot has failed to access the log group: -1003787292420
+Reason: Telegram says: [400 CHANNEL_INVALID] - The provided channel is invalid. (caused by "channels.GetChannels")
