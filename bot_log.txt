@@ -1,0 +1,11 @@
+[21-Feb-26 09:29:53 - INFO] - anony: Cache directories updated.
+[21-Feb-26 09:29:54 - INFO] - anony: Loaded languages: ar, de, en, es, fr, hi, ja, my, pa, pt, ru, tr, zh
+/home/ubuntu/AnonXMusic/anony/__main__.py:40: DeprecationWarning: There is no current event loop
+  asyncio.get_event_loop().run_until_complete(main())
+[21-Feb-26 09:30:00 - INFO] - anony: Database connection successful. (5.19s)
+[21-Feb-26 09:30:02 - INFO] - anony: Database cache loaded.
+[21-Feb-26 09:30:03 - INFO] - anony: Bot started as @TheWayMUSICBOT
+[21-Feb-26 09:30:08 - INFO] - anony: Assistant 1 started as @Coallane
+[21-Feb-26 09:30:08 - INFO] - anony: PyTgCalls client(s) started.
+[21-Feb-26 09:30:08 - INFO] - anony: Loaded 21 modules.
+[21-Feb-26 09:30:09 - INFO] - anony: Loaded 1 sudo users.
