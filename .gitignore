@@ -1,0 +1,16 @@
+.env
+.cache
+.idea
+.DS_Store
+venv/
+cache/
+downloads/
+__pycache__/
+anony/cookies/*.txt
+*.session
+*.session-journal
+*.pyc
+.pythonlibs/
+*.egg-info/
+dist/
+build/
